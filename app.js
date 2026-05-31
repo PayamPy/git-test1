@@ -4,11 +4,3 @@ const test =  () => {
 
 
 // these are tests codes
-
-const LikePost = () -> {
-    return true
-}
-
-const dissLikePost = () -> {
-    return false
-}
