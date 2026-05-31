@@ -36,4 +36,4 @@ Inline `code`
     - Python
     - PHP
 ___
-this is my channel so[please click](https://sabzlearn.ir)
+this is my channel so[please click the fuck here](https://sabzlearn.ir)
